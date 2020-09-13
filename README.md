@@ -1,3 +1,5 @@
+![Build](https://github.com/DmitryPogrebnoy/Simple-license-detector/workflows/Build/badge.svg)
+
 ## Simple license detector
 This console application detects which licenses are used in a software project and outputs them.
 
@@ -15,3 +17,10 @@ In order to run the application, you need to run the command: ```java -jar Simpl
 After starting, you must specify the full path to the project folder that you want to scan.
 
 After that, the scanning process begins, upon its completion, all found licenses of the specified project will be displayed.
+
+### Supported license
+- Apache License 2.0
+- MIT License
+- GPL-3.0
+- BSD-3-Clause
+- LGPL-3.0
